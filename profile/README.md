@@ -23,9 +23,9 @@ If you are a package developer wanting to add a binary dependency to your Julia 
 
 These repositories are largely auto-generated.
 
-*   **Bug Reports:** If you encounter an issue with a specific JLL package (e.g., a binary fails to load on your system), please report it to the [Yggdrasil bug tracker](github.com/issues) by opening an issue there.
-*   **Build Scripts:** Contributions (e.g., updating a library version, fixing a build issue for a specific platform) are welcome via Pull Requests to the [Yggdrasil repository](github.com).
-*   **General Documentation:** For more details about JLL packages and how to use them, see the [BinaryBuilder.jl documentation](docs.binarybuilder.org).
+*   **Bug Reports:** If you encounter an issue with a specific JLL package (e.g., a binary fails to load on your system), please report it to the [Yggdrasil bug tracker](https://github.com/JuliaPackaging/Yggdrasil/issues) by opening an issue there.
+*   **Build Scripts:** Contributions (e.g., updating a library version, fixing a build issue for a specific platform) are welcome via Pull Requests to the [Yggdrasil repository](https://github.com/JuliaPackaging/Yggdrasil).
+*   **General Documentation:** For more details about JLL packages and how to use them, see the [BinaryBuilder.jl documentation](https://docs.binarybuilder.org/stable).
 
 ## License
 
