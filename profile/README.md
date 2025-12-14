@@ -17,7 +17,7 @@ The entire process is automated:
 
 Most users will never need to interact with this organization directly. JLL packages are typically used as dependencies by higher-level Julia packages.
 
-If you are a package developer wanting to add a binary dependency to your Julia package, refer to the official [BinaryBuilder.jl documentation](docs.binarybuilder.org) for details on how to integrate JLL packages.
+If you are a package developer wanting to add a binary dependency to your Julia package, refer to the official [BinaryBuilder.jl documentation](https://docs.binarybuilder.org/stable) for details on how to integrate JLL packages.
 
 ## Contributing and Getting Help
 
